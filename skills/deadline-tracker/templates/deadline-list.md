@@ -1,0 +1,9 @@
+## Deadlines (as of <weekday, date>, <timezone>)
+
+- 🔴 **OVERDUE / DUE TODAY** <title> — <date, time> (<days>d) · source: <calendar|email|notes>
+- 🟠 **DUE TOMORROW** <title> — <date, time> (1d) · source: ...
+- 🟡 **THIS WEEK** <title> — <date> (<days>d) · source: ...
+- ⚪ **UPCOMING** <title> — <date> (<days>d) · source: ...
+
+**Next action:** <one concrete step for the most urgent item>
+_Omitted: <n> lower-priority items_ (only if more than 10)
